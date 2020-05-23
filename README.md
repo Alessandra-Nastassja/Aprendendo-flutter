@@ -11,7 +11,7 @@ Conteúdo abordado:
 - Instalação (Flutter, Android Stúdio)
 
 *****
-### *Tecnologias usadas:* 📌 
+## *Tecnologias usadas:* 📌 
 
 - [Flutter](https://flutter.dev/);
 - [Android Studio](https://developer.android.com/studio/install#linux),ou
@@ -19,10 +19,14 @@ Conteúdo abordado:
 
 > *Recomenda-se usar o Android Studio.*
 
-## Pré-requisito 📱
+### Pré-requisito 📱
 
 - Flutter
 - [Android Studio]() ou [VS Code]();
+
+### Como instalar ? 💻
+
+Veja o wiki [aqui](https://github.com/Alessandra-Nastassja/Aprendendo-flutter/wiki) para saber como instalar.
 
 *****
  ## Referências: 
